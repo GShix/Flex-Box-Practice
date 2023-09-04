@@ -10,7 +10,7 @@
             padding-left: 80vh;
             align-items: center;
     justify-content: end;
-           
+           margin-top: 0px;
         }
         li{
             list-style:none ;
@@ -74,4 +74,12 @@
             height:50vh;
             width: 33.33vw;
             display: inline-block;
+        }
+        header img{
+            border: 3px solid rgb(240, 184, 1);
+            border-radius: 100vh;
+            width: 10vh;
+            height: 10vh;
+            margin-top: 20px;
+            margin-bottom: 0px;
         }
